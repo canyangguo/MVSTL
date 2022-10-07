@@ -1,8 +1,10 @@
 ## Comprehensive Spatiotemporal Learning for Traffic Forecasting
 
 ##
+```
 mkdir params
 mkdir log
+```
 
 ## run
 ```
