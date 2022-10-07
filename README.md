@@ -1,5 +1,9 @@
 ## Comprehensive Spatiotemporal Learning for Traffic Forecasting
 
+##
+mkdir params
+mkdir log
+
 ## run
 ```
 python main.py --config config/PEMS08.json --gpu 0 --model_name ours --st_dropout_rate 0.95 --noise_rate 2 --num_of_latents 32
